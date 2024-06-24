@@ -11,6 +11,6 @@
  <project path="kernel/samsung/sm7325" name="android_kernel_samsung_sm7325" remote="arslan1400" revision="lineage-21" />
 
  <!-- Hardware -->
- <project path="hardware/samsung" name="hardware_samsung" remote="arslan1400" revision="aosp" />
+ <project path="hardware/samsung" name="android_hardware_samsung" remote="arslan1400" revision="aosp" />
 
 </manifest>
